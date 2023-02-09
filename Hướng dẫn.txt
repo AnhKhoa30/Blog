@@ -1,0 +1,6 @@
+1. Tải courses.json từ file src/config/db
+2.  URI : mongodb://localhost:27017 trong monggoDB compass
+3. Tạo database:Blog
+4. import file courses.json,collections.json vào database
+5. npm start 
+6. http://localhost:3000/

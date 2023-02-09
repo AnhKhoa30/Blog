@@ -1,0 +1,133 @@
+[{
+  "_id": {
+    "$oid": "63e50afb9b585e6fa73b40fa"
+  },
+  "name": "HTML-CSS",
+  "description": "CSS selectors",
+  "image": "https://i.ytimg.com/vi/hzn_VKpGdTg/maxresdefault.jpg",
+  "videoId": "hzn_VKpGdTg",
+  "level": "cơ bản",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675954939725"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675954939725"
+    }
+  },
+  "slug": "html-css",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e50e379b585e6fa73b4163"
+  },
+  "name": "C++",
+  "description": "Biến và nhập xuất dữ liệu",
+  "image": "https://i.ytimg.com/vi/Z5O6pxQm6II/maxresdefault.jpg",
+  "videoId": "Z5O6pxQm6II",
+  "level": "cơ bản",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675955767795"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675955767795"
+    }
+  },
+  "slug": "c",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e50e989b585e6fa73b416d"
+  },
+  "name": "React JS",
+  "description": "Xây dựng UI phần sidebar ",
+  "image": "https://i.ytimg.com/vi/-5jFoaGqcF8/maxresdefault.jpg",
+  "videoId": "-5jFoaGqcF8",
+  "level": "Cơ bản",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675955864079"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675955864079"
+    }
+  },
+  "slug": "react-js",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e50f1e9b585e6fa73b4176"
+  },
+  "name": "React JS",
+  "description": "useCallback() hook",
+  "image": "https://i.ytimg.com/vi/_aiLvBnYwnA/maxresdefault.jpg",
+  "videoId": "_aiLvBnYwnA",
+  "level": "Cơ bản",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675955998953"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675955998953"
+    }
+  },
+  "slug": "react-js-D0-BsDuUL",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e50f759b585e6fa73b417f"
+  },
+  "name": "Javascript",
+  "description": "Làm quen với toán tử",
+  "image": "https://i.ytimg.com/vi/SZb-N7TfPlw/maxresdefault.jpg",
+  "videoId": "SZb-N7TfPlw",
+  "level": "Nhập môn",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675956085265"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675956085265"
+    }
+  },
+  "slug": "javascript",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e50fa59b585e6fa73b4188"
+  },
+  "name": "Javascript",
+  "description": "Toán tử số học",
+  "image": "https://i.ytimg.com/vi/m_h7-dgKnMU/maxresdefault.jpg",
+  "videoId": "m_h7-dgKnMU",
+  "level": "Nhập môn",
+  "deleted": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1675956133913"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1675956133913"
+    }
+  },
+  "slug": "javascript-sUFpKxjad",
+  "__v": 0
+}]
